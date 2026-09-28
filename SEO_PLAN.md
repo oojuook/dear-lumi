@@ -1,8 +1,8 @@
-# Quiet Journal Journey SEO Plan
+# Dear Lumi SEO Plan
 
 ## Primary positioning
 - Product: private online diary and mood journal
-- Brand: Quiet Journal Journey
+- Brand: Dear Lumi
 - Audience: people looking for calm digital journaling, mood tracking, reflection prompts, and privacy
 
 ## Priority keyword clusters

@@ -1,8 +1,9 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
+    "restore": "sh restore-folders.sh",
+    "dev": "sh restore-folders.sh && vite --host 0.0.0.0",
+    "build": "sh restore-folders.sh && vite build",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
